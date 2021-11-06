@@ -50,8 +50,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="314dp"
         android:text="Zakat: "
-        android:textSize="25dp
-"
+        android:textSize="25dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
